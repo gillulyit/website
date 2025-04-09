@@ -1,0 +1,30 @@
+baseURL = "https://www.gillulyit.com/"
+languageCode = "en-us"
+title = "Gilluly IT Services"
+
+theme = "business-basic"
+
+[params]
+slogan = "Accidentally fixing computers since 2012"
+firstyear = "2012"
+hiddentext = "I am not interested in web design services as I run my own. Refusal to acknowledge this text and an attempt to contact me anyway will tell me that you either don't know what you're doing or you have some sort of superiority complex. Either way I will NOT work with you so don't waste your time."
+
+[[params.social]]
+url = "https://www.facebook.com/gillulyitservicesllc"
+icon = "facebook"
+[[params.social]]
+url = "https://m.me/105527558775959"
+icon = "messenger"
+[[params.social]]
+url = "https://nextdoor.com/pages/gilluly-it-services-llc-belmont-ny/"
+icon = "nextdoor"
+[[params.social]]
+url = "https://www.github.com/gillulyit/"
+icon = "github"
+[[params.social]]
+url = "https://www.gillulyit.com/articles/index.xml"
+icon = "rss"
+
+[pagination]
+path = "p"
+pagerSize = 7
