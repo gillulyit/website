@@ -1,8 +1,8 @@
----
-title: "Facebook Forex Scams"
-date: "14 May 2023"
-draft: false
----
++++
+date = '14 May 2023'
+draft = false
+title = 'Facebook Forex Scams'
++++
 
 One of the things I encountered while on Facebook, was a bunch of spam messages about some Bitcoin Forex guru. So I decided to take a look into the profile, and found a few red flags, pointing to it possibly being a scam.
 

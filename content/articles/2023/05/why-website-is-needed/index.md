@@ -1,8 +1,8 @@
----
-title: "Why a Website Is Needed"
-date: 2023-05-23T12:29:04-04:00
-draft: false
----
++++
+date = '2023-05-23T12:29:04-04:00'
+draft = false
+title = 'Why a Website Is Needed'
++++
 
 Web Developers recommending websites to small businesses is sometimes seen as being too pushy. One reason why is because social media sites are easy to use and free. While it's great to have social media pages, there are some upsides to having a website too. I'll go over a few reasons why:
 

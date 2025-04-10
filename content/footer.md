@@ -1,7 +1,7 @@
----
-build:
-  render: "never"
----
++++
+[build]
+  render = 'never'
++++
 
 One of Allegany County's only on-site IT services. Since 2012.
 

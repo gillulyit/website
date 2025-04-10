@@ -1,8 +1,8 @@
----
-title: "Business Check exchange Scam"
-date: "23 Jan 2023"
-draft: false
----
++++
+date = '23 Jan 2023'
+draft = false
+title = 'Business Check exchange Scam'
++++
 
 One scam that I have seen make a resurgance lately is the old check exchange scam. In this article I just wanted to give a brief of how the scam works and how you can prevent becoming a victom of it.
 

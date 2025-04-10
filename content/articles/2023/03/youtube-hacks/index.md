@@ -1,8 +1,8 @@
----
-title: "LTT Channel Hacked: Details"
-date: "25 Mar 2023"
-draft: false
----
++++
+date = '25 Mar 2023'
+draft = false
+title = 'LTT Channel Hacked: Details'
++++
 
 ## Session Hijacking Details
 

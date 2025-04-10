@@ -1,8 +1,8 @@
----
-title: "LogoFAIL Exploit Details"
-date: 2023-12-15T10:39:20-05:00
-draft: false
----
++++
+date = '2023-12-15T10:39:20-05:00'
+draft = false
+title = 'LogoFAIL Exploit Details'
++++
 
 One of the major things currently in the media is the discovery of the LogoFAIL vulnerability which was disclosed by a security research firm, Binarly, if you're into technical knowledge you can read the article [here](https://binarly.io/posts/The_Far_Reaching_Consequences_of_LogoFAIL/index.html)
 

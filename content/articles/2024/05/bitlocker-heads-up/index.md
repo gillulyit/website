@@ -1,8 +1,8 @@
----
-title: "Microsoft to enable bitlocker"
-date: 2024-05-09T21:53:44-04:00
-draft: false
----
++++
+date = '2024-05-09T21:53:44-04:00'
+draft = false
+title = 'Microsoft to enable bitlocker'
++++
 
 One of the major turns Microsoft is making in an upcoming update is to turn Bitlocker on by default. Even if a user has bypassed the requirement for an online account while installing Windows. If Bitlocker doesn't engage correctly with the computer's TPM chip during the enabling and encrypting process, it will very likely result in a prompt for the recovery key, and without it being connected to an online account, it won't be recoverable from there.
 

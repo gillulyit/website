@@ -1,8 +1,8 @@
----
-title: "Switched this site from WordPress to Hugo"
-date: "14 Jan 2023"
-draft: false
----
++++
+date = '14 Jan 2023'
+draft = false
+title = 'Switched this site from WordPress to Hugo'
++++
 
 I had made the plunge into creating this site, custom in HTML using Hugo Static Site generator, mainly for the reasons outlined below.
 

@@ -1,8 +1,8 @@
----
-title: "Dell Inpiron 16 Touchpad"
-date: 2024-03-17T15:35:59-04:00
-draft: false
----
++++
+date = '2024-03-17T15:35:59-04:00'
+draft = false
+title = 'Dell Inpiron 16 Touchpad'
++++
 
 So here comes a fun one, a big reason why strong right-to-repair laws should be enacted and preserved.
 

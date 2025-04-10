@@ -1,10 +1,10 @@
----
-date: "2025-04-08T21:42:33-04:00"
-title: "Contact Us"
-menu:
-  main:
-    weight: 2
----
++++
+date = '2025-04-08T21:42:33-04:00'
+title = 'Contact Us'
+[menu]
+  [menu.main]
+    weight = 2
++++
 
 ## Phone and Instant Messaging
 

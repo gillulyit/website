@@ -12,18 +12,23 @@ hiddentext = "I am not interested in web design services as I run my own. Refusa
 [[params.social]]
 url = "https://www.facebook.com/gillulyitservicesllc"
 icon = "facebook"
+label = "Link to Facebook Profile"
 [[params.social]]
 url = "https://m.me/105527558775959"
 icon = "messenger"
+label = "Link to FB Messenger"
 [[params.social]]
 url = "https://nextdoor.com/pages/gilluly-it-services-llc-belmont-ny/"
 icon = "nextdoor"
+label = "Link to Nextdoor Profile"
 [[params.social]]
 url = "https://www.github.com/gillulyit/"
 icon = "github"
+label = "Link to GitHub"
 [[params.social]]
 url = "https://www.gillulyit.com/articles/index.xml"
 icon = "rss"
+label = "RSS Link"
 
 [pagination]
 path = "p"

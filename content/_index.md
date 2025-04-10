@@ -1,10 +1,10 @@
----
-date: "2025-04-08T17:43:38-04:00"
-title: "Home"
-menu:
-  main:
-    weight: 1
----
++++
+date = '2025-04-08T17:43:38-04:00'
+title = 'Home'
+[menu]
+  [menu.main]
+    weight = 1
++++
 
 ## Welcome!
 

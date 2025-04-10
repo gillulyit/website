@@ -1,8 +1,8 @@
----
-title: "Windows Upgrade FAQ"
-date: 2025-01-04T11:09:28-05:00
-draft: false
----
++++
+date = '2025-01-04T11:09:28-05:00'
+draft = false
+title = 'Windows Upgrade FAQ'
++++
 
 After talking with several people I realized that there are a lot of questions regarding the Windows 11 upgrade. For those of you who don't know, Windows 10 will no longer receive security updates after October of this year (October 14, 2025). It is recommended to upgrade to Windows 11 some time before then.
 

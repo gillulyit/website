@@ -1,8 +1,8 @@
----
-title: "AT&T National Outage - Lessons learned"
-date: 2024-02-28T23:02:30-05:00
-draft: False
----
++++
+date = '2024-02-28T23:02:30-05:00'
+draft = false
+title = 'AT&T National Outage - Lessons learned'
++++
 
 One of the things that made national news a little while ago now is the national outage of the AT&T mobile network. You can read about it from a journalists/editor's perspective here: [AT&T National Outage on AP News](https://apnews.com/article/cellular-att-verizon-tmobile-outage-02d8dfd93019e79e5e2edbeed08ee450)
 

@@ -1,8 +1,8 @@
----
-title: "Avoiding Scammers: early 2023 edition"
-date: "16 Jan 2023"
-draft: false
----
++++
+date = '16 Jan 2023'
+draft = false
+title = 'Avoiding Scammers: early 2023 edition'
++++
 
 One of the biggest threats facing many regular technology users, is the scammers. Since computer security has evolved to the point where the time and effort to defeat it directly isn't worth it. Not when it's a lot easier to trick a user into calling a number and giving them access to a computer after a little convincing.
 
