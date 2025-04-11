@@ -59,3 +59,5 @@ The main lesson here is you shouldn't advertise to small businesses, the same se
 You don't see mechanics showing up to other mechanic shops saying things like "It's time a real mechanic worked here." Or, "Hey, take it to my shop. We'll fix it better or cheaper than you can."
 
 Well, not unless they want a wrench thrown at them.
+
+{{< youtube dkB_TimQ9r0 >}}
