@@ -6,6 +6,8 @@ title = 'Microsoft to enable bitlocker'
 
 One of the major turns Microsoft is making in an upcoming update is to turn Bitlocker on by default. Even if a user has bypassed the requirement for an online account while installing Windows. If Bitlocker doesn't engage correctly with the computer's TPM chip during the enabling and encrypting process, it will very likely result in a prompt for the recovery key, and without it being connected to an online account, it won't be recoverable from there.
 
+<!--more-->
+
 Even with the online account, I've seen times where Bitlocker has prompted for recovery keys on boot, and it **wasn't** backed up in the online account. It's very tricky to enable something like disk encryption and **not** lock some users out of their files. Which is why I'm against a corporation like Microsoft, enabling it behind the scenes without prompting or even telling users that they're going to do it. It's not their files they're putting on the line by doing so.
 
 So here's some words of advice:

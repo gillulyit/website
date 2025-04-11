@@ -6,6 +6,8 @@ title = 'Facebook Forex Scams'
 
 One of the things I encountered while on Facebook, was a bunch of spam messages about some Bitcoin Forex guru. So I decided to take a look into the profile, and found a few red flags, pointing to it possibly being a scam.
 
+<!--more-->
+
 ## The repeat comments
 
 It didn't really matter where I looked in several groups, these individuals were replying constantly to other comments with the same canned message over and over again. It got to the point where Facebook's default filter set, "Most relevant" was actually not showing such replies. I had to click the dropdown, and switch it to "All Comments" just to be able to see them.

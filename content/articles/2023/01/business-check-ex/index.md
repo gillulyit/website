@@ -6,6 +6,8 @@ title = 'Business Check exchange Scam'
 
 One scam that I have seen make a resurgance lately is the old check exchange scam. In this article I just wanted to give a brief of how the scam works and how you can prevent becoming a victom of it.
 
+<!--more-->
+
 ## The Process
 
 To start out with, the scammer will reach out to their victim, or the mark; and offer them an opportunity. Usually something like a job, a business contract too lucrative to turn down, or buying a listed item for more than the asking price.

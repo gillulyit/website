@@ -10,6 +10,8 @@ When you login to a website, it will generate a session or a token, depending on
 
 Where session hijacking comes into play is when said session ID or token is copied to another endpoint via malware (malicious software or firmware) typically. There are other means of copying said session ID's or tokens, including manually, but a major channel on Youtube got hijacked with the malware method as it is the most common currently.
 
+<!--more-->
+
 So, what can you do to protect yourself?
 
 ## How to protect yourself

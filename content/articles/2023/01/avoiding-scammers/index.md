@@ -6,6 +6,8 @@ title = 'Avoiding Scammers: early 2023 edition'
 
 One of the biggest threats facing many regular technology users, is the scammers. Since computer security has evolved to the point where the time and effort to defeat it directly isn't worth it. Not when it's a lot easier to trick a user into calling a number and giving them access to a computer after a little convincing.
 
+<!--more-->
+
 ### A sense of urgency
 
 I'll start with one of their biggest assets when pulling off a scam; convincing their target that there is a sense of urgency involved or something very bad will happen.

@@ -6,6 +6,9 @@ title = 'AT&T National Outage - Lessons learned'
 
 One of the things that made national news a little while ago now is the national outage of the AT&T mobile network. You can read about it from a journalists/editor's perspective here: [AT&T National Outage on AP News](https://apnews.com/article/cellular-att-verizon-tmobile-outage-02d8dfd93019e79e5e2edbeed08ee450)
 
+
+<!--more-->
+
 ## My First Guess
 
 My first guess when it came to the outage, was some sort of ransomware attack for three main reasons:

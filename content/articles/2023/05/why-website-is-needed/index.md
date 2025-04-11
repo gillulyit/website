@@ -6,6 +6,8 @@ title = 'Why a Website Is Needed'
 
 Web Developers recommending websites to small businesses is sometimes seen as being too pushy. One reason why is because social media sites are easy to use and free. While it's great to have social media pages, there are some upsides to having a website too. I'll go over a few reasons why:
 
+<!--more-->
+
 ## Potential Patrons Social Media Hiatuses
 
 Social media has its downsides and for that reason some people decide not to get on it at all or limit their activity. That means that they may avoid using Facebook or Twitter to look up business information such as hours. Instead they may turn to a competitor who has a website.

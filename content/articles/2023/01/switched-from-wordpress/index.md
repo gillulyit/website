@@ -6,6 +6,8 @@ title = 'Switched this site from WordPress to Hugo'
 
 I had made the plunge into creating this site, custom in HTML using Hugo Static Site generator, mainly for the reasons outlined below.
 
+<!--more-->
+
 ## Security
 
 No matter how many times I checked my modules to see how many updates they had, and for WordPress itself, my hosting service was always warning me about security vulnerabilities with the installation.

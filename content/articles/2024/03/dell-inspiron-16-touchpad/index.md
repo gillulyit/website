@@ -10,6 +10,8 @@ Anyway, this laptop comes to me from a long-time client of mine, a Dell Inspiron
 
 Sure enough, I do some research into it to find out that it is a grounding issue with the touchpad. Which the repair is shown quite well in [this video](https://youtu.be/4xGq5gmKEAA?si=4CISUr7HJW__HEfR).
 
+<!--more-->
+
 ## The hiccup
 
 When trying to conduct the same repair with the particular Inspiron 16 Plus that I had, which is a bit newer than the one in the video, Dell had made the screws shorter which surrounded the touchpad. So even with a small copper wire obtained by separating stranded primary wire, wouldn't fit under the screw while trying to screw it in.

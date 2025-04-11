@@ -8,6 +8,8 @@ After talking with several people I realized that there are a lot of questions r
 
 In this post I will go through what I feel will be common questions regarding the update:
 
+<!--more-->
+
 ## When will I have to update?
 
 To maintain optimal security you will have to update to Windows 11 or buy a new computer with Windows 11 some time before October 14th, 2025. If you don't update by then, I would advise to not use the computer to login to any accounts. Especially email, password management, banking, and social media accounts.

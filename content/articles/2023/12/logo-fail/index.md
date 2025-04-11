@@ -6,6 +6,8 @@ title = 'LogoFAIL Exploit Details'
 
 One of the major things currently in the media is the discovery of the LogoFAIL vulnerability which was disclosed by a security research firm, Binarly, if you're into technical knowledge you can read the article [here](https://binarly.io/posts/The_Far_Reaching_Consequences_of_LogoFAIL/index.html)
 
+<!--more-->
+
 ## What it means to users
 
 The TL:DR; of this for users is that there maybe a major bug in their boot firmware which may allow for more persistant malware. And like always, it is a good idea to practice vigilance in downloading and installing software.
