@@ -2,7 +2,7 @@
 title = "Dashboard Camera Installs"
 date = "2025-05-13T22:55:24-04:00"
 draft = false
-weight = 4
+weight = 5
 description = "During the warmer months we can install dashboard cameras, right in most driveways."
 [params]
 image = "dashboard-cameras.webp"
